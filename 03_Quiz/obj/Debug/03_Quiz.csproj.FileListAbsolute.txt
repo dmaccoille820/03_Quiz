@@ -1,0 +1,20 @@
+c:\users\devuser\documents\visual studio 2015\Projects\03_Quiz\03_Quiz\bin\Debug\03_Quiz.exe.config
+c:\users\devuser\documents\visual studio 2015\Projects\03_Quiz\03_Quiz\bin\Debug\03_Quiz.exe
+c:\users\devuser\documents\visual studio 2015\Projects\03_Quiz\03_Quiz\bin\Debug\03_Quiz.pdb
+c:\users\devuser\documents\visual studio 2015\Projects\03_Quiz\03_Quiz\obj\Debug\03_Quiz.csprojResolveAssemblyReference.cache
+c:\users\devuser\documents\visual studio 2015\Projects\03_Quiz\03_Quiz\obj\Debug\_03_Quiz.frm_Login.resources
+c:\users\devuser\documents\visual studio 2015\Projects\03_Quiz\03_Quiz\obj\Debug\_03_Quiz.frm_MainMenu.resources
+c:\users\devuser\documents\visual studio 2015\Projects\03_Quiz\03_Quiz\obj\Debug\_03_Quiz.Properties.Resources.resources
+c:\users\devuser\documents\visual studio 2015\Projects\03_Quiz\03_Quiz\obj\Debug\03_Quiz.csproj.GenerateResource.Cache
+c:\users\devuser\documents\visual studio 2015\Projects\03_Quiz\03_Quiz\obj\Debug\03_Quiz.exe
+c:\users\devuser\documents\visual studio 2015\Projects\03_Quiz\03_Quiz\obj\Debug\03_Quiz.pdb
+D:\03_Quiz\03_Quiz\bin\Debug\03_Quiz.exe.config
+D:\03_Quiz\03_Quiz\obj\Debug\03_Quiz.exe
+D:\03_Quiz\03_Quiz\obj\Debug\03_Quiz.pdb
+D:\03_Quiz\03_Quiz\bin\Debug\03_Quiz.exe
+D:\03_Quiz\03_Quiz\bin\Debug\03_Quiz.pdb
+D:\03_Quiz\03_Quiz\obj\Debug\03_Quiz.csprojResolveAssemblyReference.cache
+D:\03_Quiz\03_Quiz\obj\Debug\_03_Quiz.frm_Login.resources
+D:\03_Quiz\03_Quiz\obj\Debug\_03_Quiz.frm_MainMenu.resources
+D:\03_Quiz\03_Quiz\obj\Debug\_03_Quiz.Properties.Resources.resources
+D:\03_Quiz\03_Quiz\obj\Debug\03_Quiz.csproj.GenerateResource.Cache
